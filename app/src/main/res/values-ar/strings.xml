@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipAndSaving</string>
+    <string name="this_is_tip_calculator">حاسبة التبس</string>
+    <string name="hint_enter_amount">ضع الكمية بالدولار</string>
+    <string name="default_percent">25%</string>
+    <string name="tip_value">التبس</string>
+    <string name="total">الكمية الكلية</string>
+    <string name="this_is_saving_calculator">حاسبة التوفير</string>
+    <string name="saving_value">التوفير</string>
+</resources>
